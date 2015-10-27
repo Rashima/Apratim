@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rashima Kapoor\Desktop\desktop\New folder (2)\Apratim\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Rashima Kapoor\Desktop\desktop\New folder (2)\Apratim\app\build\intermediates\pre-dexed\debug\classes-bb266fd4b2ebc10783fb262e3ef1b5f50c2b2203.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rashima Kapoor\Desktop\desktop\New folder (2)\Apratim\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Rashima Kapoor\Desktop\desktop\New folder (2)\Apratim\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-45a93a0404a817282dc687efe854dbceed4a995e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rashima Kapoor\Desktop\desktop\New folder (2)\Apratim\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Rashima Kapoor\Desktop\desktop\New folder (2)\Apratim\app\build\intermediates\pre-dexed\debug\classes-4793913bfe8e58512ba08d97a683102e398d28c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rashima Kapoor\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Rashima Kapoor\Desktop\desktop\New folder (2)\Apratim\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-c2935f4457da9586c2c08f18fd23142d4b6d93b6.jar" />
+    </item>
+
+</items>

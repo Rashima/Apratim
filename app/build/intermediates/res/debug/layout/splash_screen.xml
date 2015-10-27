@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="fest.ccet.com.apratim.SplashScreen"
+    android:orientation="vertical"
+    android:background="@drawable/splash">
+
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Rashima%20Kapoor/Desktop/desktop/New%20folder%20(2)/Apratim/app/src/main/res/layout/splash_screen.xml -->
